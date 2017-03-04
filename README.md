@@ -1,5 +1,6 @@
 # plaxos_1
 to start:
+npm install 
 node index.js
 I used node v.6.9.4, but should run on any version. 
 
